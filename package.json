@@ -1,7 +1,7 @@
 {
     "name": "ja-express",
     "version": "1.0.0",
-    "description": "A minimal Express backend boilerplate - auth-ready, MySQL-backed, with a testing setup already wired in.",
+    "description": "Basic express REST API server",
     "main": "index.js",
     "scripts": {
         "test": "cross-env NODE_OPTIONS=--experimental-vm-modules jest",

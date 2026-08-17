@@ -1,6 +1,6 @@
 # ja-express
 
-A minimal Express backend boilerplate - auth-ready, MySQL-backed, with a testing setup already wired in.
+A minimal Express REST API backend boilerplate - auth-ready, MySQL-backed, with a testing setup already wired in.
 
 ## Stack
 
