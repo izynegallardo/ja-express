@@ -1,6 +1,6 @@
 # ja-express
 
-A minimal Express REST API backend boilerplate - auth-ready, MySQL-backed, with a testing setup already wired in.
+A minimal Express REST API backend boilerplate.
 
 ## Stack
 
@@ -9,17 +9,6 @@ A minimal Express REST API backend boilerplate - auth-ready, MySQL-backed, with 
 - JWT auth (`jsonwebtoken`)
 - Jest + Supertest for testing
 - Zod for request validation
-
-## Quick Start
-
-Scaffold a new project with:
-
-```bash
-npm create ja-express@latest express-project
-cd express-project
-```
-
-This downloads this template into `express-project`. Then continue below to finish setup.
 
 ## Getting Started
 
